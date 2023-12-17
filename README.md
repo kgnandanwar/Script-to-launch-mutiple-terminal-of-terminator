@@ -1,9 +1,9 @@
 # Script-to-launch-mutiple-terminal-of-terminator
 
-Desired Output:
+### Desired Output:
 ![image](https://github.com/kgnandanwar/Script-to-launch-mutiple-terminal-of-terminator/assets/76609547/48de5070-9c59-4e6b-8f22-5157015e0102)
 
-
+### Procedure:
 Step 1: Create the necessary directory and an empty configuration file
 
 ```
