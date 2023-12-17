@@ -12,7 +12,7 @@ touch ~/.config/terminator/config
 nano ~/.config/terminator/config
 ```
 
-Step 2: Copy-Paste the following code(Make sure to adjust the display resolution in line 33 as per your computer
+Step 2: Copy-Paste the following code(Make sure to adjust the display resolution in line 19 of the following code as per your PC
 ```
 [global_config]
   title_hide_sizetext = True
