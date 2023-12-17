@@ -75,4 +75,4 @@ nano ~/.config/terminator/config
 [plugins]
 ```
 
-Restart Terminator and it should open 4 terminals bu default
+Restart Terminator and it should open 4 terminals by default
