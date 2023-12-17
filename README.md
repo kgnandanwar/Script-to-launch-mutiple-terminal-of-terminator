@@ -1,10 +1,10 @@
 # Script-to-launch-mutiple-terminal-of-terminator
 
-### Desired Output:
+## Desired Output:
 ![image](https://github.com/kgnandanwar/Script-to-launch-mutiple-terminal-of-terminator/assets/76609547/48de5070-9c59-4e6b-8f22-5157015e0102)
 
-### Procedure:
-Step 1: Create the necessary directory and an empty configuration file
+## Procedure:
+### Step 1: Create the necessary directory and an empty configuration file
 
 ```
 mkdir -p ~/.config/terminator/
@@ -12,7 +12,7 @@ touch ~/.config/terminator/config
 nano ~/.config/terminator/config
 ```
 
-Step 2: Copy-Paste the following code(Make sure to adjust the display resolution in line 19 of the following code as per your PC
+### Step 2: Copy-Paste the following code(Make sure to adjust the display resolution in line 19 of the following code as per your PC
 ```
 [global_config]
   title_hide_sizetext = True
