@@ -74,3 +74,5 @@ nano ~/.config/terminator/config
       parent = right
 [plugins]
 ```
+
+Restart Terminator and it should open 4 terminals bu default
